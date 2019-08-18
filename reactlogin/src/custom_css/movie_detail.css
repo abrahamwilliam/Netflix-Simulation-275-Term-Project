@@ -1,0 +1,36 @@
+.detailsSection{
+  align-content: center;
+  align-items: center;
+}
+
+.sectionM{
+  /* border-color: black;
+  border-style: dashed; */
+  padding: 2% 2% 2% 2%;
+}
+
+.imageSection{
+  width: 80%;
+  height: auto;
+  /* margin: 10% 10% 10% 10%; */
+}
+
+.btnLink{
+  font-size: 9px;
+}
+
+.reviewSection{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+  /* padding: 10%; */
+  /* margin-right: 0% !important; */
+}
+
+.detailText{
+  font-size: 12px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: darkgray;
+}
+
+.line{
+  border-bottom: 1px solid #ccc;
+}
