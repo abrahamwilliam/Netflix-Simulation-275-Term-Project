@@ -12,7 +12,7 @@ Movie Central is a web application like Netflix. Users can watch movies which ar
 | Zenobia Panvelwala | zenobiaadnan.panvelwala@sjsu.edu | 012528321 |
 | Arshiya Pathan | arshiyahayatkhan.pathan@sjsu.edu | 012431536 |
 | Kirati Bhuva | kirati.bhuva@sjsu.edu | 012439206 |
-| Abraham William | abrahamwilliam.stephenjeyaraj@sjsu.edu | 8893892 |
+| Abraham William | abrahamwilliam.stephenjeyaraj@sjsu.edu | 012551877 |
 
 
 # URL to access the web application
