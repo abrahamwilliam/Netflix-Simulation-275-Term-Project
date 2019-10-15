@@ -44,7 +44,7 @@ Every space inside `{ }` and `( )` means that this is pushed into next line :)
 
 
 
-###cc
+###`cc`
 
 ```javascript
 class Hero {
@@ -56,7 +56,7 @@ class Hero {
 ```
 
 
-###linkedlist
+###`linkedlist`
 ```javascript
 buckets.LinkedList()
 Creates an empty Linked List.
@@ -69,7 +69,7 @@ var petsAreEqualByName = function(pet1, pet2) {
 
 
 
-###mocha
+###`mocha`
 ```javascript
 var assert = require('assert');
 describe('Array', function() {
@@ -82,7 +82,7 @@ describe('Array', function() {
 ```
 
 
-###mysqldb
+###`mysqldb`
 ```javascript
 var mysql = require('mysql');
 
@@ -100,7 +100,7 @@ con.connect(function(err) {
 
 
 
-###mongodb
+###`mongodb`
 ```javascript
 var MongoClient = require('mongodb').MongoClient;
 var url = 'mongodb://localhost/EmployeeDB';
@@ -119,7 +119,7 @@ MongoClient.connect(url, function(err, db) {
 
 
 
-###mongoose
+### `mongoose`
 ```javascript
   //Import the mongoose module
 var mongoose = require('mongoose');
@@ -136,7 +136,7 @@ db.on('error', console.error.bind(console, 'MongoDB connection error:'));
 ```
 
 
-###mongoose-model
+### `mongoose-model`
 ```javascript
  // Define schema
 var Schema = mongoose.Schema;
@@ -149,4 +149,3 @@ var SomeModelSchema = new Schema({
 // Compile model from schema
 var SomeModel = mongoose.model('SomeModel', SomeModelSchema );
 ```
-}
